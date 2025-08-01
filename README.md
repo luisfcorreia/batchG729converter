@@ -20,5 +20,12 @@ sudo dnf install ffmpeg
 
 # prepare environment
 
+```
+git clone https://github.com/luisfcorreia/batchG729converter
+cd batchG729converter
+
+make
 
 
+
+```
